@@ -1,5 +1,5 @@
 _repo: Stellar-Showboat_62255
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leydenfrost, Alexander
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26699'
     url: http://www.gutenberg.org/2009/agents/26699
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Leydenfrost
+covers:
+- cover_type: archival
+  image_path: 62255-h/images/cover.jpg
 creator:
   author:
     agent_name: Jameson, Malcolm
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51457
     wikipedia: https://en.wikipedia.org/wiki/Malcolm_Jameson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62255#Stellar-Showboat
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
